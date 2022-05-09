@@ -7,7 +7,7 @@
 
 <ol>
 
-<li>01 Agenda Escolar Permanente do Estudante, a ser adquirida no início do ano letivo no Centro Pedagógico </li>
+<li>● 01 Agenda Escolar Permanente do Estudante, a ser adquirida no início do ano letivo no Centro Pedagógico </li>
 
 <li>● 01 estojo escolar</li>
 <li>● 06 lápis pretos nº 2</li>
