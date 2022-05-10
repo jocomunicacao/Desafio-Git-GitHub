@@ -3,7 +3,7 @@
  
 
 
- ## LISTA DE MATERIAL ESCOLAR </p>
+ ## LISTA DE MATERIAIS ESCOLARES </p>
 
 <ol>
 
